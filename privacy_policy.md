@@ -12,8 +12,10 @@ Node Notes requires certain permissions to provide its core features. Here is ex
 Node Notes requests microphone access to convert your voice into text. **All audio processing is done strictly on your device** using a local Whisper AI model. 
 * **No audio recordings or transcripts are ever transmitted to our servers.** * The data is processed ephemerally on your device and saved only to your local database.
 
-### Calendar Events and Location
-If you choose to link calendar events or save location context to your notes, this information is stored exclusively in the app’s local, encrypted database on your device. We do not track or upload your location or schedule.
+### Location and Calendar Events
+Node Notes allows you to voluntarily pin your current exact location or link calendar events to your notes for better context. 
+* **Local Storage:** This location and schedule data is stored exclusively in the app’s local, encrypted database on your device. 
+* **No Tracking:** We do not continuously track your location in the background, nor do we upload your pinned locations to our servers or share them with any marketing services.
 
 ### Mood Tracking
 Any data regarding your mood or personal journal entries is considered personal and is kept strictly on your device. 
